@@ -1,0 +1,24 @@
+{
+  "name": "code_hedera",
+  "version": "1.0.0",
+
+  "description": "# Hedera Hashgraph Learning Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-code"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cheikh-Nakamoto/hedera_learning.git"
+  },
+  "author": "cheikh-nakamoto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cheikh-Nakamoto/hedera_learning/issues"
+  },
+  "homepage": "https://github.com/Cheikh-Nakamoto/hedera_learning#readme",
+  "dependencies": {
+    "@hashgraph/sdk": "^2.66.0",
+    "dotenv": "^16.5.0"
+  }
+}
