@@ -1,0 +1,68 @@
+{
+  "config": {
+    "scriptCategory": "config",
+    "ansiDisabled": false,
+    "metricsId": "d5c4378758d74b29b39015f37c4903ab",
+    "metricsAccountId": "0.0.6089195",
+    "metricsAccountKey": "0x58b9f1aefe6ba90ae0d397e39cdae3a596bb4b6208aae7cc9b17be0ea93c1a83",
+    "metricsHcsTopicMemo": "HFWV2",
+    "metricsHcsTopicId": "0.0.4573319",
+    "metricsHcsDisabled": false
+  },
+  "initDotEnvForApp": {
+    "scriptCategory": "setup",
+    "firstStart": 1749855304349,
+    "lastStart": 1749855304349,
+    "countStart": 1,
+    "firstComplete": 1749855531954,
+    "lastComplete": 1749855531954,
+    "countComplete": 1,
+    "firstError": 9007199254740991,
+    "lastError": 0,
+    "countError": 0,
+    "countErrorBeforeFirstComplete": 0,
+    "countErrorAfterFirstComplete": 0
+  },
+  "initDotEnvForRpcRelay": {
+    "scriptCategory": "setup",
+    "firstStart": 1749855538563,
+    "lastStart": 1749855538563,
+    "countStart": 1,
+    "firstComplete": 1749855538739,
+    "lastComplete": 1749855538739,
+    "countComplete": 1,
+    "firstError": 9007199254740991,
+    "lastError": 0,
+    "countError": 0,
+    "countErrorBeforeFirstComplete": 0,
+    "countErrorAfterFirstComplete": 0
+  },
+  "transferHbar": {
+    "scriptCategory": "task",
+    "firstStart": 1749857503385,
+    "lastStart": 1750444693372,
+    "countStart": 9,
+    "firstComplete": 1749858459387,
+    "lastComplete": 1749858459387,
+    "countComplete": 1,
+    "firstError": 1749857503439,
+    "lastError": 1749857884845,
+    "countError": 3,
+    "countErrorBeforeFirstComplete": 3,
+    "countErrorAfterFirstComplete": 0
+  },
+  "htsFt": {
+    "scriptCategory": "task",
+    "firstStart": 1749903458479,
+    "lastStart": 1749903458479,
+    "countStart": 1,
+    "firstComplete": 1749903612230,
+    "lastComplete": 1749903612230,
+    "countComplete": 1,
+    "firstError": 9007199254740991,
+    "lastError": 0,
+    "countError": 0,
+    "countErrorBeforeFirstComplete": 0,
+    "countErrorAfterFirstComplete": 0
+  }
+}
